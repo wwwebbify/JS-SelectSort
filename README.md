@@ -1,2 +1,2 @@
 # SelectSort
-A sorting function which grabs the minimum value, inserts it onto the end of a temp array and returns the sorted array
+A sorting function which loops through the unsorted portion of the array, grabs the minimum value of the array, moves it to the current loop index  
